@@ -33,7 +33,7 @@ Você pode conferir o material em:
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 
-Além das minhas habilidades profissionais, adoro praticar esportes dentre eles estão basquete 🏀( https://sapl.assis.sp.leg.br/pysc/download_materia_pysc?cod_materia=MzYzMTk=&texto_original=1) e clicismo 🚵🏾 (https://www.strava.com/athletes/6182906)
+Além das minhas habilidades profissionais, adoro praticar esportes dentre eles estão basquete e clicismo https://www.strava.com/athletes/6182906)
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
@@ -51,8 +51,6 @@ Normalmente, crio novos repositórios para armazenar alguns projetos pessoais, c
 
 Sinta-se à vontade para explorar e reutilizar qualquer um dos meus projetos 🖖🏾
 
-> Faço algumas coisas estranhas também, por exemplo, incluir aleatórios
-> espero que você não me julgue porque isso rs
 
 Se quiser saber mais sobre mim, me siga nas minhas redes sociais:
 
