@@ -16,7 +16,7 @@ Minhas principais habilidades são no desenvolvimento Android, Java e Asp.Net.
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-Durante minha carreira, escrevi e publiquei alguns artigos sobre engenharia de software, big data e realidade vitual (sou entusiasta de tecnologias 😁). Além dos temas principais nos artigos é algumas ferramentas de desenvolvimento e analise além de outros temas e tecnológias. 
+Durante minha carreira, escrevi e publiquei alguns artigos sobre engenharia de software, big data e realidade virtual (sou entusiasta de tecnologias 😁). Além dos temas principais nos artigos, utilizei algumas ferramentas de desenvolvimento e análise para alcançar os objetivos. 
 Você pode conferir o material em:
 
 💊 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) A TECNOLOGIA DE BIG DATA NA SAÚDE 
