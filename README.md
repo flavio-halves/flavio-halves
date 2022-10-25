@@ -45,7 +45,7 @@ Normalmente, crio novos repositórios para armazenar alguns projetos pessoais, c
 Sinta-se à vontade para explorar e reutilizar qualquer um dos meus projetos 🖖🏾
 
 
-<! – Se quiser saber mais sobre mim, me siga nas minhas redes sociais:
+Se quiser saber mais sobre mim, me siga nas minhas redes sociais:
 
 
-<a href="https://www.linkedin.com/in/fl%C3%A1vio-alves-34811456/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> ->
+<a href="https://www.linkedin.com/in/fl%C3%A1vio-alves-34811456/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
