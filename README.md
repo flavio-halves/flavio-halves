@@ -1,7 +1,7 @@
 
 
 
-## About me
+## Sobre mim
 
 Eu Flávio, desenvolvedor e professor. 
 
@@ -12,7 +12,7 @@ Eu Flávio, desenvolvedor e professor.
 </div>
 
 
-## My repositories content
+## Meus repositórios contém
 
 <div>
   <a href="https://github.com/flavio-halves">
