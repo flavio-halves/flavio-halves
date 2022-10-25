@@ -29,14 +29,8 @@ Você pode conferir o material em:
 
 
 
-
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-
-/*<! – Além das minhas habilidades profissionais, adoro praticar esportes dentre eles estão basquete e clicismo https://www.strava.com/athletes/6182906->
-
-
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />*/
 
 ## My repositories content
 
